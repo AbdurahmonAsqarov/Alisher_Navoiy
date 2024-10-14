@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*::after,*,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  li{
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+  }
+.line{
+    background:url(./assets/line.png);
+    background-position: right;
+    background-attachment: fixed;
+  }
+  .line2{
+    background: url(./assets/line2.png);
+    background-position: left, top;
+  }
