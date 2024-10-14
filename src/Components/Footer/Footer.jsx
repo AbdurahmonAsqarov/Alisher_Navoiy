@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const Footer = () => {
   return (
     <div>
-      <footer className='container border-y-2 border-[#af7b67] bg-[#2d303f] z-40'>
+      <footer className='container border-y-2 border-[#af7b67] bg-[#2d303f] z-0'>
         <h1 className='font-medium text-2xl text-[#af7b67] my-[2vh] mr-5 text-end'>
           Mohira Ziyoqulovna <span className='italic font-thin'>uchun</span>
         </h1>
