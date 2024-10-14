@@ -14,7 +14,7 @@
   }
 .line{
     background:url(./assets/line.png);
-    background-position: right;
+    background-position: top,right;
     background-attachment: fixed;
   }
   .line2{
