@@ -18,8 +18,8 @@ const Navbar = () => {
 
   return (
     <>
-      <div>
-        <div className='container fixed'>
+      <div className='fixed container'>
+        <div className='container '>
           <nav className='flex justify-between px-[5vw] items-center bg-[#2d303f] border-b-2 border-[#af8b67]'>
             <img src={book_img} alt="Book Story" className='w-[80px]' />
 
