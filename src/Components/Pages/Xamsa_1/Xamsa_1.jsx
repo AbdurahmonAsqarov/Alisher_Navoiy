@@ -8,13 +8,13 @@ const Xamsa_1 = () => {
       <h1 className='text-[#af7b67] text-4xl text-center py-[4vh]'>𝕸𝖆𝖍𝖟𝖆𝖓 𝖚𝖑-𝖆𝖘𝖗𝖔𝖗</h1>
 
       <div className='gap-y-3 flex flex-col'>
-        <h2 className='text-[#af7b67] font-extrabold'>Janr/bo'lim: <span className='italic font-normal'>Ma`lumotnomalar, Tarix</span></h2>
-        <h2 className='text-[#af7b67] font-extrabold'>Muallif: <span className='italic font-normal'>Shayx Nizomiy Ganjaviy</span></h2>
-        <h2 className='text-[#af7b67] font-extrabold'>Tarjimon: <span className='italic font-normal'>Jamol Kamol</span></h2>
-        <h2 className='text-[#af7b67] font-extrabold'>Nashr yili: <span className='italic font-normal'>2016</span></h2>
-        <h2 className='text-[#af7b67] font-extrabold'>Tili: <span className='italic font-normal'>O'zbek (kir)</span></h2>
-        <h2 className='text-[#af7b67] font-extrabold'>Betlar: <span className='italic font-normal'>216</span></h2>
-        <h2 className='text-[#af7b67] font-extrabold'>Nashriyot: <span className='italic font-normal'>Kamalak</span></h2>
+      <h2 className='text-[#af7b67] font-extrabold'>Janr/bo'lim: <span className='italic font-normal'>Ma`lumotnomalar, Tarix</span></h2>
+          <h2 className='text-[#af7b67] font-extrabold'>Muallif: <span className='italic font-normal'>Shayx Nizomiy Ganjaviy</span></h2>
+          <h2 className='text-[#af7b67] font-extrabold'>Tarjimon: <span className='italic font-normal'>Jamol Kamol</span></h2>
+          <h2 className='text-[#af7b67] font-extrabold'>Nashr yili: <span className='italic font-normal'>2016</span></h2>
+          <h2 className='text-[#af7b67] font-extrabold'>Tili: <span className='italic font-normal'>O'zbek (kir)</span></h2>
+          <h2 className='text-[#af7b67] font-extrabold'>Betlar: <span className='italic font-normal'>216</span></h2>
+          <h2 className='text-[#af7b67] font-extrabold'>Nashriyot: <span className='italic font-normal'>Kamalak</span></h2>
       </div>
 
       <div className='my-5 '>
