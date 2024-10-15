@@ -1,9 +1,9 @@
 import React from 'react';
-import Alisher from '../../assets/Alisher_Navoiy.jpg';
+import Alisher from '../../../assets/Alisher_Navoiy.jpg';
 
 const Header = () => {
   return (
-    <div className='container pt-[80px] bg-[#2d303f] h-[200vh] '>
+    <div className='container pt-[80px] bg-[#2d303f] '>
       <div className='mt-5 ml-5 line2'>
         <img src={Alisher} alt="" className='rounded-lg border-2 border-[#af8b67] ' />
         <div className=''>

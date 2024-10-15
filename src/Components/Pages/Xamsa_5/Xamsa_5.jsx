@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ComponentLayout = () => {
+const Xamsa_5 = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const ComponentLayout = () => {
   )
 }
 
-export default ComponentLayout
+export default Xamsa_5

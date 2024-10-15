@@ -20,7 +20,7 @@ const Footer = () => {
           <motion.h1
             initial={{ x: -100 }} 
             whileInView={{ x: 0 }}
-            transition={{ delay: 3 }}  // 1 soniya kechikish
+            transition={{ delay: 3 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>Abdulaziz</h1>
@@ -28,7 +28,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: -115 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 2.7 }}  // 1 soniya kechikish
+            transition={{ delay: 2.7 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>|</h1>
@@ -36,7 +36,7 @@ const Footer = () => {
           <motion.h1
             initial={{ x: 90 }} 
             whileInView={{ x: 0 }}
-            transition={{ delay: 3 }}  // 1 soniya kechikish
+            transition={{ delay: 3 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>Azizxon</h1>
@@ -48,7 +48,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: 45 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 2 }}  // 1 soniya kechikish
+            transition={{ delay: 2 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>Bekzod</h1>
@@ -56,7 +56,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: 20 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 1 }}  // 1 soniya kechikish
+            transition={{ delay: 1 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>|</h1>
@@ -64,7 +64,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: 45 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 2 }}  // 1 soniya kechikish
+            transition={{ delay: 2 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>Daler</h1>
@@ -76,7 +76,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: -45 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 2 }}  // 1 soniya kechikish
+            transition={{ delay: 2 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>Aziza</h1>
@@ -84,7 +84,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: -20 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 1 }}  // 1 soniya kechikish
+            transition={{ delay: 1 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>|</h1>
@@ -92,7 +92,7 @@ const Footer = () => {
           <motion.h1
             initial={{ y: -45 }} 
             whileInView={{ y: 0 }}
-            transition={{ delay: 2 }}  // 1 soniya kechikish
+            transition={{ delay: 2 }} 
             className='w-1/3 text-center'
           >
             <h1 className='text-2xl mt-3 text-[#af7b67]'>Farangiz</h1>
@@ -102,9 +102,9 @@ const Footer = () => {
         <motion.h1
           initial={{ y: -145 }} 
           whileInView={{ y: 0 }}
-          transition={{ delay: 2.5 }}  // 1 soniya kechikish
+          transition={{ delay: 2.5 }} 
         >
-          <h1 className='text-2xl my-5 text-[#af7b67] text-center'>Abdurahmon</h1>
+          <h1 className='text-2xl my-5 text-[#af7b67] text-center'>~ Abdurahmon ~</h1>
         </motion.h1>
       </footer>
     </div>
