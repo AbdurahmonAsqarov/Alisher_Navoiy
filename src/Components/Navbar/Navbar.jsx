@@ -18,7 +18,7 @@ const Navbar = () => {
   };
 
   const closeBurgerMenu = () => {
-    setBurgerIcon(false); // This will close the burger menu when a NavLink is clicked
+    setBurgerIcon(false); 
   };
 
   return (
@@ -95,11 +95,11 @@ const Navbar = () => {
                   transition={{ delay: 1.8 }}
                 >
                   <NavLink to='/Iskandarnoma' onClick={closeBurgerMenu}>
-                    <button className='text-3xl '>Iskandarnoma</button>
+                    <button className='text-3xl '>Saddi Iskandariy</button>
                   </NavLink>
                 </motion.button>
               </div>
-              <div className='grid place-content-center py-[9.5vh] bg-white pb-[50vh]'>
+              <div className='grid place-content-center py-[9.5vh] bg-white pb-[50vh]  border-8 border-[#af7b67b0]'>
                 <img src={hamza_img} alt="" className=''/>
               </div>
             </div>
