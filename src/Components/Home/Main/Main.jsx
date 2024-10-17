@@ -45,7 +45,7 @@ const Main = () => {
                 <NavLink to='/Haft_paykar' className='border border-[#af7b67] py-3 px-2 rounded-lg text-[#fffffa88] shadow-lg shadow-gray-400 text-center'>Ma'lumot o'qing</NavLink>
             </div>
               <div className='border border-[#af8b67]  h-[20vh]'></div>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjY9kV_HDv9WEInuoytC_dRSStebdLy2wSA&s" alt="" className='w-[40vw]'/>
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjY9kV_HDv9WEInuoytC_dRSStebdLy2wSA&s" alt="" className='w-[35vw]'/>
         </div>
         <div className='flex justify-between items-center pb-5'>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHBN1bYnh1ftl5CTNdL1_anJnjgtr7vDF4g&s" alt="" className='w-[40vw]'/>
