@@ -8,6 +8,7 @@ import Xamsa_2 from './Components/Pages/Xamsa_2/Xamsa_2'
 import Xamsa_3 from './Components/Pages/Xamsa_3/Xamsa_3'
 import Xamsa_4 from './Components/Pages/Xamsa_4/Xamsa_4'
 import Xamsa_5 from './Components/Pages/Xamsa_5/Xamsa_5'
+import Joke from './Components/Pages/Joke/Joke'
 
 
 const App = () => {
@@ -39,6 +40,10 @@ const App = () => {
         {
           path: '/Iskandarnoma',
           element: <Xamsa_5/>
+        },
+        {
+          path: '/Joke',
+          element: <Joke/>
         }
       ]
     }

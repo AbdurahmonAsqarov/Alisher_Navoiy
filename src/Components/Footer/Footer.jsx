@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { NavLink } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -104,7 +105,7 @@ const Footer = () => {
           whileInView={{ y: 0 }}
           transition={{ delay: 2.5 }} 
         >
-          <h1 className='text-2xl my-5 text-[#af7b67] text-center'>~ Abdurahmon ~</h1>
+          <h1 className='text-2xl my-5 text-[#af7b67] text-center'>~ Abdurahmon <NavLink to='/Joke'>~</NavLink></h1>
         </motion.h1>
       </footer>
     </div>
